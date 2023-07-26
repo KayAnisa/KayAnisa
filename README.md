@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KayAnisa
 - 👀 I’m interested in gaming, art and fashion
-- 🌱 I’m currently learning JS, C#, HTML, CSS & SQL
+- 🌱 I’m currently learning JS, C#, C++, HTML, CSS & SQL
 - 💞️ I’m looking to collaborate on gaming projects
 - 📫 How to reach me kaysak#0 on Discord
 
